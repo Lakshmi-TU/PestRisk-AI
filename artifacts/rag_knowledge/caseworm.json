@@ -1,0 +1,140 @@
+{
+  "pest_id": "caseworm",
+  "pest_name": "Caseworm",
+  "crop": "Rice",
+  "category": "Insect pest",
+  "identification": {
+    "common_name": "Caseworm",
+    "scientific_name": null,
+    "pest_type": "Insect",
+    "identification_features": [
+      "Rice caseworm is an aquatic-associated rice insect whose larva constructs a portable case from leaf material and lives in flooded rice fields."
+    ],
+    "life_stages": null
+  },
+  "symptoms": {
+    "early_symptoms": [
+      "Caseworm larvae scrape or feed on rice leaves, producing scraped or skeletonized leaf surfaces and damaged foliage."
+    ],
+    "field_symptoms": [
+      "Caseworm larvae scrape or feed on rice leaves, producing scraped or skeletonized leaf surfaces and damaged foliage."
+    ],
+    "damage_description": [
+      "Caseworm larvae scrape or feed on rice leaves, producing scraped or skeletonized leaf surfaces and damaged foliage."
+    ]
+  },
+  "favorable_conditions": {
+    "temperature": {
+      "description": "Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.",
+      "range": null
+    },
+    "humidity": {
+      "description": "Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.",
+      "range": null
+    },
+    "rainfall": {
+      "description": "Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions."
+    },
+    "seasonal_conditions": [
+      "Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions."
+    ],
+    "other_conditions": [
+      "Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions."
+    ]
+  },
+  "monitoring": {
+    "monitoring_methods": [
+      "Inspect flooded rice fields for floating leaf cases, scraped leaves, and larvae associated with damaged foliage."
+    ],
+    "trap_methods": null,
+    "field_observations": [
+      "Inspect flooded rice fields for floating leaf cases, scraped leaves, and larvae associated with damaged foliage."
+    ],
+    "monitoring_frequency": "Regular field monitoring during relevant crop growth stages.",
+    "risk_indicators": [
+      "Inspect flooded rice fields for floating leaf cases, scraped leaves, and larvae associated with damaged foliage."
+    ]
+  },
+  "cultural_control": {
+    "practices": [
+      "Manage water conditions appropriately and avoid unnecessarily prolonged standing water where crop and field conditions permit."
+    ],
+    "field_management": [
+      "Manage water conditions appropriately and avoid unnecessarily prolonged standing water where crop and field conditions permit."
+    ],
+    "water_management": null,
+    "nutrient_management": null
+  },
+  "biological_control": {
+    "natural_enemies": [
+      "Conserve naturally occurring predators and parasitoids associated with rice caseworm as part of integrated management."
+    ],
+    "biocontrol_agents": null,
+    "conservation_practices": [
+      "Conserve naturally occurring predators and parasitoids associated with rice caseworm as part of integrated management."
+    ]
+  },
+  "mechanical_control": {
+    "practices": [
+      "Where practical, remove damaged leaves or floating cases from localized infestations and use field-management practices that reduce larval habitat."
+    ],
+    "physical_removal": [
+      "Where practical, remove damaged leaves or floating cases from localized infestations and use field-management practices that reduce larval habitat."
+    ],
+    "trap_based_control": null
+  },
+  "chemical_control": {
+    "principles": [
+      "Chemical management should only be considered when monitoring indicates a need and according to current locally registered rice recommendations."
+    ],
+    "recommended_options": [
+      "Chemical management should only be considered when monitoring indicates a need and according to current locally registered rice recommendations."
+    ],
+    "application_guidance": [
+      "Chemical management should only be considered when monitoring indicates a need and according to current locally registered rice recommendations."
+    ],
+    "safety_notes": [
+      "Use only currently registered products and follow the current product label and applicable local agricultural recommendations."
+    ]
+  },
+  "integrated_pest_management": {
+    "prevention": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "monitoring": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "decision_guidance": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "cultural_methods": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "biological_methods": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "mechanical_methods": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "chemical_methods": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ],
+    "priority_actions": [
+      "Integrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm."
+    ]
+  },
+  "source_metadata": {
+    "sources": [
+      {
+        "title": "Pest of Paddy — Caseworm",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+      }
+    ],
+    "source_type": [
+      "State Agricultural University"
+    ],
+    "last_verified": "2026-09-19",
+    "notes": "Evidence-grounded rice pest knowledge compiled from the verified PestRisk AI source registry."
+  }
+}

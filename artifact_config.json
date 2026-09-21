@@ -1,0 +1,15 @@
+{
+  "artifact_root": "artifacts",
+  "ml_artifacts": {
+    "model": "artifacts/model/pestrisk_rf_sigmoid.joblib",
+    "metadata": "artifacts/model/model_metadata.json",
+    "features": "artifacts/model/feature_list.json",
+    "thresholds": "artifacts/model/risk_thresholds.json"
+  },
+  "rag_artifacts": {
+    "chunks": "artifacts/rag_knowledge/chunks.json",
+    "source_registry": "artifacts/rag_knowledge/source_registry.csv",
+    "embeddings": "artifacts/rag_knowledge/embeddings/chunk_embeddings.npy",
+    "faiss_index": "artifacts/rag_knowledge/embeddings/pestai_faiss.index"
+  }
+}

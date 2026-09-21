@@ -1,0 +1,146 @@
+{
+  "pest_id": "zig_zag_leafhopper",
+  "pest_name": "Zig-zag leafhopper",
+  "crop": "Rice",
+  "category": "Insect pest",
+  "identification": {
+    "common_name": "Zig-zag leafhopper",
+    "scientific_name": null,
+    "pest_type": "Insect",
+    "identification_features": [
+      "Zig-zag leafhopper is a sap-sucking rice leafhopper recognized by its characteristic body markings and feeding habit."
+    ],
+    "life_stages": null
+  },
+  "symptoms": {
+    "early_symptoms": [
+      "Leafhopper feeding can cause yellowing, weakening, and reduced vigor of rice plants when populations become significant."
+    ],
+    "field_symptoms": [
+      "Leafhopper feeding can cause yellowing, weakening, and reduced vigor of rice plants when populations become significant."
+    ],
+    "damage_description": [
+      "Leafhopper feeding can cause yellowing, weakening, and reduced vigor of rice plants when populations become significant."
+    ]
+  },
+  "favorable_conditions": {
+    "temperature": {
+      "description": "The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.",
+      "range": null
+    },
+    "humidity": {
+      "description": "The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.",
+      "range": null
+    },
+    "rainfall": {
+      "description": "The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds."
+    },
+    "seasonal_conditions": [
+      "The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds."
+    ],
+    "other_conditions": [
+      "The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds."
+    ]
+  },
+  "monitoring": {
+    "monitoring_methods": [
+      "Inspect rice plants regularly for leafhoppers and monitor leaves and lower plant portions for feeding damage and increasing populations."
+    ],
+    "trap_methods": null,
+    "field_observations": [
+      "Inspect rice plants regularly for leafhoppers and monitor leaves and lower plant portions for feeding damage and increasing populations."
+    ],
+    "monitoring_frequency": "Regular field monitoring during relevant crop growth stages.",
+    "risk_indicators": [
+      "Inspect rice plants regularly for leafhoppers and monitor leaves and lower plant portions for feeding damage and increasing populations."
+    ]
+  },
+  "cultural_control": {
+    "practices": [
+      "Use balanced crop nutrition, field sanitation, and crop-management practices that reduce conditions favorable to leafhopper multiplication."
+    ],
+    "field_management": [
+      "Use balanced crop nutrition, field sanitation, and crop-management practices that reduce conditions favorable to leafhopper multiplication."
+    ],
+    "water_management": null,
+    "nutrient_management": null
+  },
+  "biological_control": {
+    "natural_enemies": [
+      "Conserve predators, parasitoids, and other natural enemies of rice leafhoppers."
+    ],
+    "biocontrol_agents": null,
+    "conservation_practices": [
+      "Conserve predators, parasitoids, and other natural enemies of rice leafhoppers."
+    ]
+  },
+  "mechanical_control": {
+    "practices": [
+      "Use field sanitation and physical crop-management measures where practical to reduce leafhopper sources and affected plant material."
+    ],
+    "physical_removal": [
+      "Use field sanitation and physical crop-management measures where practical to reduce leafhopper sources and affected plant material."
+    ],
+    "trap_based_control": null
+  },
+  "chemical_control": {
+    "principles": [
+      "Chemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying."
+    ],
+    "recommended_options": [
+      "Chemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying."
+    ],
+    "application_guidance": [
+      "Chemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying."
+    ],
+    "safety_notes": [
+      "Use only currently registered products and follow the current product label and applicable local agricultural recommendations."
+    ]
+  },
+  "integrated_pest_management": {
+    "prevention": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "monitoring": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "decision_guidance": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "cultural_methods": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "biological_methods": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "mechanical_methods": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "chemical_methods": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ],
+    "priority_actions": [
+      "Integrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper."
+    ]
+  },
+  "source_metadata": {
+    "sources": [
+      {
+        "title": "ICAR publications — ecological context for rice insect pests",
+        "organization": "Indian Council of Agricultural Research",
+        "url": "https://epubs.icar.org.in/"
+      },
+      {
+        "title": "Crop Protection Guide — Rice",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+      }
+    ],
+    "source_type": [
+      "ICAR",
+      "State Agricultural University"
+    ],
+    "last_verified": "2026-09-19",
+    "notes": "Evidence-grounded rice pest knowledge compiled from the verified PestRisk AI source registry."
+  }
+}

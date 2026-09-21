@@ -1,0 +1,30 @@
+{
+    "features": [
+        "Standard Week",
+        "MaxT",
+        "MinT",
+        "RH1(%)",
+        "RH2(%)",
+        "RF(mm)",
+        "WS(kmph)",
+        "SSH(hrs)",
+        "EVP(mm)",
+        "PEST NAME",
+        "Location"
+    ],
+    "categorical_features": [
+        "PEST NAME",
+        "Location"
+    ],
+    "numerical_features": [
+        "Standard Week",
+        "MaxT",
+        "MinT",
+        "RH1(%)",
+        "RH2(%)",
+        "RF(mm)",
+        "WS(kmph)",
+        "SSH(hrs)",
+        "EVP(mm)"
+    ]
+}

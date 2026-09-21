@@ -1,0 +1,163 @@
+{
+  "pest_id": "brown_planthopper",
+  "pest_name": "Brown planthopper",
+  "crop": "Rice",
+  "category": "Insect pest",
+  "identification": {
+    "common_name": "Brown planthopper",
+    "scientific_name": null,
+    "pest_type": "Insect",
+    "identification_features": [
+      "Brown planthopper is a sap-sucking rice planthopper that feeds near the base of rice plants."
+    ],
+    "life_stages": null
+  },
+  "symptoms": {
+    "early_symptoms": [
+      "Heavy brown planthopper feeding causes yellowing and drying of rice plants, potentially producing characteristic hopperburn."
+    ],
+    "field_symptoms": [
+      "Heavy brown planthopper feeding causes yellowing and drying of rice plants, potentially producing characteristic hopperburn."
+    ],
+    "damage_description": [
+      "Heavy brown planthopper feeding causes yellowing and drying of rice plants, potentially producing characteristic hopperburn."
+    ]
+  },
+  "favorable_conditions": {
+    "temperature": {
+      "description": "High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.",
+      "range": null
+    },
+    "humidity": {
+      "description": "High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.",
+      "range": null
+    },
+    "rainfall": {
+      "description": "High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold."
+    },
+    "seasonal_conditions": [
+      "High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold."
+    ],
+    "other_conditions": [
+      "High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold."
+    ]
+  },
+  "monitoring": {
+    "monitoring_methods": [
+      "Monitor the base of rice hills and count planthopper nymphs and adults. The cited ICAR study used 5–10 nymphs/adults per hill as a study-specific threshold context."
+    ],
+    "trap_methods": null,
+    "field_observations": [
+      "Monitor the base of rice hills and count planthopper nymphs and adults. The cited ICAR study used 5–10 nymphs/adults per hill as a study-specific threshold context."
+    ],
+    "monitoring_frequency": "Regular field monitoring during relevant crop growth stages.",
+    "risk_indicators": [
+      "Monitor the base of rice hills and count planthopper nymphs and adults. The cited ICAR study used 5–10 nymphs/adults per hill as a study-specific threshold context."
+    ]
+  },
+  "cultural_control": {
+    "practices": [
+      "Avoid excessive nitrogen, maintain balanced crop nutrition, and conserve natural enemies to reduce brown planthopper outbreaks."
+    ],
+    "field_management": [
+      "Avoid excessive nitrogen, maintain balanced crop nutrition, and conserve natural enemies to reduce brown planthopper outbreaks."
+    ],
+    "water_management": null,
+    "nutrient_management": null
+  },
+  "biological_control": {
+    "natural_enemies": [
+      "Conserve spiders, mirid bugs, and other natural enemies that prey on planthoppers."
+    ],
+    "biocontrol_agents": null,
+    "conservation_practices": [
+      "Conserve spiders, mirid bugs, and other natural enemies that prey on planthoppers."
+    ]
+  },
+  "mechanical_control": {
+    "practices": [
+      "Intermittent draining and use of light traps can help manage planthopper populations; drainage before insecticide application can improve management in appropriate field conditions."
+    ],
+    "physical_removal": [
+      "Intermittent draining and use of light traps can help manage planthopper populations; drainage before insecticide application can improve management in appropriate field conditions."
+    ],
+    "trap_based_control": null
+  },
+  "chemical_control": {
+    "principles": [
+      "The cited ICAR Kharif Agro-Advisory lists imidacloprid 17.8% SC at 250 ml/ha and, for severe situations, dinotefuran 10% + pymetrozine 40% WG at 250 g/ha. Current labels and local recommendations must be verified."
+    ],
+    "recommended_options": [
+      "The cited ICAR Kharif Agro-Advisory lists imidacloprid 17.8% SC at 250 ml/ha and, for severe situations, dinotefuran 10% + pymetrozine 40% WG at 250 g/ha. Current labels and local recommendations must be verified."
+    ],
+    "application_guidance": [
+      "The cited ICAR Kharif Agro-Advisory lists imidacloprid 17.8% SC at 250 ml/ha and, for severe situations, dinotefuran 10% + pymetrozine 40% WG at 250 g/ha. Current labels and local recommendations must be verified."
+    ],
+    "safety_notes": [
+      "Use only currently registered products and follow the current product label and applicable local agricultural recommendations."
+    ]
+  },
+  "integrated_pest_management": {
+    "prevention": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "monitoring": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "decision_guidance": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "cultural_methods": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "biological_methods": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "mechanical_methods": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "chemical_methods": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ],
+    "priority_actions": [
+      "Manage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention."
+    ]
+  },
+  "source_metadata": {
+    "sources": [
+      {
+        "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+        "organization": "Indian Council of Agricultural Research",
+        "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+      },
+      {
+        "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+        "organization": "Indian Council of Agricultural Research",
+        "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+      },
+      {
+        "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+        "organization": "International Rice Research Institute",
+        "url": "https://news.irri.org/2016/10/"
+      },
+      {
+        "title": "Letting nature manage its battles",
+        "organization": "International Rice Research Institute",
+        "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+      },
+      {
+        "title": "Organic Farming — Pest Management",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+      }
+    ],
+    "source_type": [
+      "ICAR",
+      "IRRI",
+      "Peer-reviewed publication",
+      "State Agricultural University"
+    ],
+    "last_verified": "2026-09-19",
+    "notes": "Evidence-grounded rice pest knowledge compiled from the verified PestRisk AI source registry."
+  }
+}

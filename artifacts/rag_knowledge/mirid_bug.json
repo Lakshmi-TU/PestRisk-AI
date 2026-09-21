@@ -1,0 +1,162 @@
+{
+  "pest_id": "mirid_bug",
+  "pest_name": "Mirid bug",
+  "crop": "Rice",
+  "category": "Insect pest",
+  "identification": {
+    "common_name": "Mirid bug",
+    "scientific_name": "Cyrtorhinus lividipennis",
+    "pest_type": "Insect",
+    "identification_features": [
+      "The mirid bug recorded in the rice literature is Cyrtorhinus lividipennis Reuter, a beneficial natural enemy associated with rice ecosystems. It is predatory on eggs and nymphs of rice planthoppers and leafhoppers, particularly brown planthopper."
+    ],
+    "life_stages": null
+  },
+  "symptoms": {
+    "early_symptoms": [
+      "No authoritative source in the current Mirid source registry establishes a rice-damage symptom profile caused by Cyrtorhinus lividipennis. It is primarily documented as a beneficial natural enemy. nan"
+    ],
+    "field_symptoms": [
+      "No authoritative source in the current Mirid source registry establishes a rice-damage symptom profile caused by Cyrtorhinus lividipennis. It is primarily documented as a beneficial natural enemy. nan"
+    ],
+    "damage_description": [
+      "No authoritative source in the current Mirid source registry establishes a rice-damage symptom profile caused by Cyrtorhinus lividipennis. It is primarily documented as a beneficial natural enemy. nan"
+    ]
+  },
+  "favorable_conditions": {
+    "temperature": {
+      "description": "Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.",
+      "range": null
+    },
+    "humidity": {
+      "description": "Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.",
+      "range": null
+    },
+    "rainfall": {
+      "description": "Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds."
+    },
+    "seasonal_conditions": [
+      "Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds."
+    ],
+    "other_conditions": [
+      "Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds."
+    ]
+  },
+  "monitoring": {
+    "monitoring_methods": [
+      "Monitor rice fields for the occurrence and seasonal abundance of mirid bugs as beneficial natural enemies, particularly when assessing planthopper populations. Mirid monitoring should be interpreted as an indicator of natural-enemy presence rather than as evidence of rice pest damage."
+    ],
+    "trap_methods": null,
+    "field_observations": [
+      "Monitor rice fields for the occurrence and seasonal abundance of mirid bugs as beneficial natural enemies, particularly when assessing planthopper populations. Mirid monitoring should be interpreted as an indicator of natural-enemy presence rather than as evidence of rice pest damage."
+    ],
+    "monitoring_frequency": "Regular field monitoring during relevant crop growth stages.",
+    "risk_indicators": [
+      "Monitor rice fields for the occurrence and seasonal abundance of mirid bugs as beneficial natural enemies, particularly when assessing planthopper populations. Mirid monitoring should be interpreted as an indicator of natural-enemy presence rather than as evidence of rice pest damage."
+    ]
+  },
+  "cultural_control": {
+    "practices": [
+      "Conserve Cyrtorhinus lividipennis in rice fields as a beneficial natural enemy of planthoppers. Rice IPM practices should avoid unnecessary disturbance of natural-enemy populations."
+    ],
+    "field_management": [
+      "Conserve Cyrtorhinus lividipennis in rice fields as a beneficial natural enemy of planthoppers. Rice IPM practices should avoid unnecessary disturbance of natural-enemy populations."
+    ],
+    "water_management": null,
+    "nutrient_management": null
+  },
+  "biological_control": {
+    "natural_enemies": [
+      "Cyrtorhinus lividipennis is a beneficial natural enemy that contributes to biological control in rice by preying on eggs and nymphs of planthoppers and leafhoppers, particularly brown planthopper."
+    ],
+    "biocontrol_agents": null,
+    "conservation_practices": [
+      "Cyrtorhinus lividipennis is a beneficial natural enemy that contributes to biological control in rice by preying on eggs and nymphs of planthoppers and leafhoppers, particularly brown planthopper."
+    ]
+  },
+  "mechanical_control": {
+    "practices": [
+      "No authoritative Mirid-specific mechanical-control programme is established in the current source registry. Because the organism is beneficial, mechanical suppression should not be invented as an IPM recommendation. nan"
+    ],
+    "physical_removal": [
+      "No authoritative Mirid-specific mechanical-control programme is established in the current source registry. Because the organism is beneficial, mechanical suppression should not be invented as an IPM recommendation. nan"
+    ],
+    "trap_based_control": null
+  },
+  "chemical_control": {
+    "principles": [
+      "No chemical treatment should be directed specifically against Cyrtorhinus lividipennis as a beneficial natural enemy. When pesticides are required for other rice pests, use need-based and selective approaches that minimize harm to beneficial natural enemies and avoid unnecessary broad-spectrum pesticide use."
+    ],
+    "recommended_options": [
+      "No chemical treatment should be directed specifically against Cyrtorhinus lividipennis as a beneficial natural enemy. When pesticides are required for other rice pests, use need-based and selective approaches that minimize harm to beneficial natural enemies and avoid unnecessary broad-spectrum pesticide use."
+    ],
+    "application_guidance": [
+      "No chemical treatment should be directed specifically against Cyrtorhinus lividipennis as a beneficial natural enemy. When pesticides are required for other rice pests, use need-based and selective approaches that minimize harm to beneficial natural enemies and avoid unnecessary broad-spectrum pesticide use."
+    ],
+    "safety_notes": [
+      "Use only currently registered products and follow the current product label and applicable local agricultural recommendations."
+    ]
+  },
+  "integrated_pest_management": {
+    "prevention": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "monitoring": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "decision_guidance": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "cultural_methods": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "biological_methods": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "mechanical_methods": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "chemical_methods": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ],
+    "priority_actions": [
+      "In rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies."
+    ]
+  },
+  "source_metadata": {
+    "sources": [
+      {
+        "title": "Cyrtorhinus lividipennis Reuter",
+        "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+        "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+      },
+      {
+        "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+        "organization": "Professor Jayashankar Telangana State Agricultural University",
+        "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+      },
+      {
+        "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+        "organization": "G. B. Pant University of Agriculture and Technology",
+        "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+      },
+      {
+        "title": "Crop Protection / IPM guidance for rice planthopper management",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+      },
+      {
+        "title": "Biological control of brown planthopper in rice",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://agritech.tnau.ac.in/"
+      }
+    ],
+    "source_type": [
+      "ICAR",
+      "Peer-reviewed publication",
+      "State Agricultural University"
+    ],
+    "last_verified": "2026-09-19",
+    "notes": "Mirid bug is represented as an insect in the schema for compatibility, but the verified rice literature identifies Cyrtorhinus lividipennis as a beneficial natural enemy associated with planthopper and leafhopper management. It should not be interpreted as a conventional rice pest infestation."
+  }
+}

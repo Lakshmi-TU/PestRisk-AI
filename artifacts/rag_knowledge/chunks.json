@@ -1,0 +1,2576 @@
+{
+  "project": "PestAI",
+  "description": "Deterministic RAG chunks generated from validated rice pest knowledge JSON documents.",
+  "chunking_strategy": {
+    "type": "pest_topic",
+    "chunks_per_pest": 9,
+    "total_pests": 9,
+    "total_chunks": 81,
+    "deterministic": true
+  },
+  "source_not_found_topics": [
+    "mirid_bug__mechanical_control",
+    "mirid_bug__symptoms"
+  ],
+  "created_at": "2026-09-19T16:55:55.368728",
+  "chunks": [
+    {
+      "chunk_id": "brown_planthopper__identification",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Brown planthopper\nPest type: Insect\nIdentification features:\nBrown planthopper is a sap-sucking rice planthopper that feeds near the base of rice plants.",
+      "content_hash": "2ddf001d5b0bdc2bd50c8ac54279906ba3be2a14613593836ad501c9c82329c9",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__symptoms",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nHeavy brown planthopper feeding causes yellowing and drying of rice plants, potentially producing characteristic hopperburn.\nField symptoms:\nHeavy brown planthopper feeding causes yellowing and drying of rice plants, potentially producing characteristic hopperburn.\nDamage description:\nHeavy brown planthopper feeding causes yellowing and drying of rice plants, potentially producing characteristic hopperburn.",
+      "content_hash": "d3bb2efb6cd7122b7345f077837c010451207082c72362d39414b76e73c7fede",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__favorable_conditions",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.\nHumidity:\nDescription: High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.\nRainfall:\nDescription: High nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.\nSeasonal conditions:\nHigh nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.\nOther conditions:\nHigh nitrogen input, dense crop growth, and environmental conditions favorable to planthopper multiplication can increase brown planthopper risk. Conditions are field- and season-dependent rather than a single universal threshold.",
+      "content_hash": "928e625df0b2f2696da8db9a02c7b586fd7bce54f2b79edf0952f01460eb7c3d",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__monitoring",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nMonitor the base of rice hills and count planthopper nymphs and adults. The cited ICAR study used 5–10 nymphs/adults per hill as a study-specific threshold context.\nField observations:\nMonitor the base of rice hills and count planthopper nymphs and adults. The cited ICAR study used 5–10 nymphs/adults per hill as a study-specific threshold context.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nMonitor the base of rice hills and count planthopper nymphs and adults. The cited ICAR study used 5–10 nymphs/adults per hill as a study-specific threshold context.",
+      "content_hash": "25a5d34d4e7d69db2e4f90b6c45ca434c46fb9b96cd74722b1b3ba7c5a8ecad2",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__cultural_control",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nAvoid excessive nitrogen, maintain balanced crop nutrition, and conserve natural enemies to reduce brown planthopper outbreaks.\nField management:\nAvoid excessive nitrogen, maintain balanced crop nutrition, and conserve natural enemies to reduce brown planthopper outbreaks.",
+      "content_hash": "b45ef7aa46721bd1b1978f6e708dc415093eebcd0ffe71cb6b3919c1e38b82cb",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__biological_control",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve spiders, mirid bugs, and other natural enemies that prey on planthoppers.\nConservation practices:\nConserve spiders, mirid bugs, and other natural enemies that prey on planthoppers.",
+      "content_hash": "97fd4eaa35eccdcba5190dcf0e848c21396088911eac60c29eb73a3b405ad498",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__mechanical_control",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nIntermittent draining and use of light traps can help manage planthopper populations; drainage before insecticide application can improve management in appropriate field conditions.\nPhysical removal:\nIntermittent draining and use of light traps can help manage planthopper populations; drainage before insecticide application can improve management in appropriate field conditions.",
+      "content_hash": "8ad89024a797e467a66f388bfcc421682b0f79d82fcd15304fdf2def00a9644a",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__chemical_control",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nThe cited ICAR Kharif Agro-Advisory lists imidacloprid 17.8% SC at 250 ml/ha and, for severe situations, dinotefuran 10% + pymetrozine 40% WG at 250 g/ha. Current labels and local recommendations must be verified.\nRecommended options:\nThe cited ICAR Kharif Agro-Advisory lists imidacloprid 17.8% SC at 250 ml/ha and, for severe situations, dinotefuran 10% + pymetrozine 40% WG at 250 g/ha. Current labels and local recommendations must be verified.\nApplication guidance:\nThe cited ICAR Kharif Agro-Advisory lists imidacloprid 17.8% SC at 250 ml/ha and, for severe situations, dinotefuran 10% + pymetrozine 40% WG at 250 g/ha. Current labels and local recommendations must be verified.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "1c04a49784619cae162b9f5b5eb4388c0bd3855ff9c441ebcbd454369d94b516",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "brown_planthopper__integrated_pest_management",
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Brown planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nMonitoring:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nDecision guidance:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nCultural methods:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nBiological methods:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nMechanical methods:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nChemical methods:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.\nPriority actions:\nManage brown planthopper through balanced nitrogen use, monitoring, conservation of natural enemies, appropriate water management, and need-based chemical intervention.",
+      "content_hash": "5e9f587f76df33236ed468ee80f41866cdd92312446065cfc6ceb5075dd42659",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Pymetrozine Bio-Efficacy Against Brown Planthopper in Rice",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/JWR/article/download/166548/63091/496632"
+          },
+          {
+            "title": "Taiwan strongly supports management of brown planthopper — a major threat to rice production",
+            "organization": "International Rice Research Institute",
+            "url": "https://news.irri.org/2016/10/"
+          },
+          {
+            "title": "Letting nature manage its battles",
+            "organization": "International Rice Research Institute",
+            "url": "https://ricetoday.irri.org/letting-nature-manage-its-battles/"
+          },
+          {
+            "title": "Organic Farming — Pest Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/org_farm/orgfarm_agripest.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__identification",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Caseworm\nPest type: Insect\nIdentification features:\nRice caseworm is an aquatic-associated rice insect whose larva constructs a portable case from leaf material and lives in flooded rice fields.",
+      "content_hash": "a17cb011147c2d55328f4fc94132aad4d93288ad7e7bd502d20fc6300f7e2b35",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__symptoms",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nCaseworm larvae scrape or feed on rice leaves, producing scraped or skeletonized leaf surfaces and damaged foliage.\nField symptoms:\nCaseworm larvae scrape or feed on rice leaves, producing scraped or skeletonized leaf surfaces and damaged foliage.\nDamage description:\nCaseworm larvae scrape or feed on rice leaves, producing scraped or skeletonized leaf surfaces and damaged foliage.",
+      "content_hash": "713295e422ba17b66e35240b39fbc2b356cd594d7fe6a5f3c0669bc4f079ab1b",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__favorable_conditions",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.\nHumidity:\nDescription: Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.\nRainfall:\nDescription: Flooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.\nSeasonal conditions:\nFlooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.\nOther conditions:\nFlooded or continuously wet rice-field conditions favor the aquatic caseworm stage; risk is therefore associated with suitable standing-water conditions.",
+      "content_hash": "44aa86b643006e5156fe5b73128608583b396d7f4ff7745a1bfc6c8365341dfd",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__monitoring",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nInspect flooded rice fields for floating leaf cases, scraped leaves, and larvae associated with damaged foliage.\nField observations:\nInspect flooded rice fields for floating leaf cases, scraped leaves, and larvae associated with damaged foliage.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nInspect flooded rice fields for floating leaf cases, scraped leaves, and larvae associated with damaged foliage.",
+      "content_hash": "1262b6209e6c145157d6ca692a0173b8fb291db8587daa0a9aa32610fc000550",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__cultural_control",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nManage water conditions appropriately and avoid unnecessarily prolonged standing water where crop and field conditions permit.\nField management:\nManage water conditions appropriately and avoid unnecessarily prolonged standing water where crop and field conditions permit.",
+      "content_hash": "e8dd590c46f08d7110cb189dd36b4c7affd39813099258e21c63e5f4f9c33fee",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__biological_control",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve naturally occurring predators and parasitoids associated with rice caseworm as part of integrated management.\nConservation practices:\nConserve naturally occurring predators and parasitoids associated with rice caseworm as part of integrated management.",
+      "content_hash": "f9ac003cdce2385f19cc088b7e33fdda13dbc6480af04aced0a8e55ee56c286f",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__mechanical_control",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nWhere practical, remove damaged leaves or floating cases from localized infestations and use field-management practices that reduce larval habitat.\nPhysical removal:\nWhere practical, remove damaged leaves or floating cases from localized infestations and use field-management practices that reduce larval habitat.",
+      "content_hash": "9e6997f87fc90baa0d03953fb0c57f4d4f1dfe6317ac4eaa758541529e0ae2f9",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__chemical_control",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nChemical management should only be considered when monitoring indicates a need and according to current locally registered rice recommendations.\nRecommended options:\nChemical management should only be considered when monitoring indicates a need and according to current locally registered rice recommendations.\nApplication guidance:\nChemical management should only be considered when monitoring indicates a need and according to current locally registered rice recommendations.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "4f30b293b81e8888253b8bff6473a580ed2660f8291ebbe042a91951152bb975",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "caseworm__integrated_pest_management",
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Caseworm\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nMonitoring:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nDecision guidance:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nCultural methods:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nBiological methods:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nMechanical methods:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nChemical methods:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.\nPriority actions:\nIntegrate field monitoring, appropriate water management, conservation of natural enemies, mechanical measures, and need-based chemical intervention for caseworm.",
+      "content_hash": "4cbd95efad677ec6473a03ff402fff59bc7a27e3372084d134f16ed725b5571b",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Pest of Paddy — Caseworm",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_3.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__identification",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Gall midge\nPest type: Insect\nIdentification features:\nRice gall midge is an insect pest whose larval feeding in young rice shoots causes characteristic gall-like tubular growth.",
+      "content_hash": "217a847ef8fe6906af491daff00df685f18c2123156d47697273faafee9bfb64",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__symptoms",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nGall midge feeding produces characteristic silver shoots or onion-leaf-like tubular galls instead of normal leaves.\nField symptoms:\nGall midge feeding produces characteristic silver shoots or onion-leaf-like tubular galls instead of normal leaves.\nDamage description:\nGall midge feeding produces characteristic silver shoots or onion-leaf-like tubular galls instead of normal leaves.",
+      "content_hash": "390d4310eefbe59796b51596207d1f1f9421d406d9f7821482f89850db0460f1",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__favorable_conditions",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.\nHumidity:\nDescription: The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.\nRainfall:\nDescription: The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.\nSeasonal conditions:\nThe cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.\nOther conditions:\nThe cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.",
+      "content_hash": "ca4d6b30675a2b5f781a2b635e76930c044b9027462082aa88d0e0d8351cb910",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__monitoring",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nMonitor rice plants for silver shoots or onion-leaf-like galls and inspect young crop growth for gall-midge symptoms.\nField observations:\nMonitor rice plants for silver shoots or onion-leaf-like galls and inspect young crop growth for gall-midge symptoms.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nMonitor rice plants for silver shoots or onion-leaf-like galls and inspect young crop growth for gall-midge symptoms.",
+      "content_hash": "0da35f99fc400bffb9a19cb1271284785f518c4adfb6e8b285d358942f3eec2b",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__cultural_control",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nUse resistant or suitable varieties and adopt crop and field management practices that reduce gall-midge carryover and infestation.\nField management:\nUse resistant or suitable varieties and adopt crop and field management practices that reduce gall-midge carryover and infestation.",
+      "content_hash": "61a6daf0dec0c521a172b3491b2338cde4953db847800cd293784b166eef868b",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__biological_control",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve parasitoids and other natural enemies associated with gall midge as part of biological pest management.\nConservation practices:\nConserve parasitoids and other natural enemies associated with gall midge as part of biological pest management.",
+      "content_hash": "81f797afa3d1c3477348d8eaba829ce34ffa0a283c85e2c2cbe6de6cd8591c8c",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__mechanical_control",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nRemove and destroy heavily infested shoots or affected plant material where practical to reduce pest carryover.\nPhysical removal:\nRemove and destroy heavily infested shoots or affected plant material where practical to reduce pest carryover.",
+      "content_hash": "157085a5850adb622a776984d39a194e7262f9f45f9f851c3268489628e42173",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__chemical_control",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nThe cited ICAR Kharif Agro-Advisory lists Fipronil 5% SC at 2 ml/L for gall-midge management in nursery conditions. Current product label and local registration must be checked before use.\nRecommended options:\nThe cited ICAR Kharif Agro-Advisory lists Fipronil 5% SC at 2 ml/L for gall-midge management in nursery conditions. Current product label and local registration must be checked before use.\nApplication guidance:\nThe cited ICAR Kharif Agro-Advisory lists Fipronil 5% SC at 2 ml/L for gall-midge management in nursery conditions. Current product label and local registration must be checked before use.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "f594a2ad6ecf077a479dce00576f05c877e0e14bdb709569725965f49af2a37e",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "gall_midge__integrated_pest_management",
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Gall midge\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nMonitoring:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nDecision guidance:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nCultural methods:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nBiological methods:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nMechanical methods:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nChemical methods:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.\nPriority actions:\nUse integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended.",
+      "content_hash": "d760602a56589efb5d0edd49434b5ca0bba9db8150103cf1f612401947102fa0",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Orseolia oryzae — environmental and biological information",
+            "organization": "ScienceDirect Topics",
+            "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+          },
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+          },
+          {
+            "title": "BIPM in Rice — Gall Midge",
+            "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+          },
+          {
+            "title": "Control of rice insect pests",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+          },
+          {
+            "title": "Pest of Paddy — Gall midge",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__identification",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Green leafhopper\nPest type: Insect\nIdentification features:\nGreen leafhoppers are sap-sucking rice insects and important vectors of rice tungro viruses.",
+      "content_hash": "c8b1c65f300f6df4d0b796375190bb73dddf74ac45e778cd765eff5bd0f70b65",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__symptoms",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nDirect feeding can weaken rice plants, while transmission of tungro viruses can produce yellowing, stunting, reduced tillering, and characteristic tungro symptoms.\nField symptoms:\nDirect feeding can weaken rice plants, while transmission of tungro viruses can produce yellowing, stunting, reduced tillering, and characteristic tungro symptoms.\nDamage description:\nDirect feeding can weaken rice plants, while transmission of tungro viruses can produce yellowing, stunting, reduced tillering, and characteristic tungro symptoms.",
+      "content_hash": "8eed72d37fb23d44ad0becc998710cb32fb045b447b0d9b8909ebcc979f2c234",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__favorable_conditions",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: The cited ICAR ecological study found associations between green leafhopper population and environmental variables including relative humidity and minimum temperature in the studied rice seasons. These relationships are study-specific rather than universal thresholds.\nHumidity:\nDescription: The cited ICAR ecological study found associations between green leafhopper population and environmental variables including relative humidity and minimum temperature in the studied rice seasons. These relationships are study-specific rather than universal thresholds.\nRainfall:\nDescription: The cited ICAR ecological study found associations between green leafhopper population and environmental variables including relative humidity and minimum temperature in the studied rice seasons. These relationships are study-specific rather than universal thresholds.\nSeasonal conditions:\nThe cited ICAR ecological study found associations between green leafhopper population and environmental variables including relative humidity and minimum temperature in the studied rice seasons. These relationships are study-specific rather than universal thresholds.\nOther conditions:\nThe cited ICAR ecological study found associations between green leafhopper population and environmental variables including relative humidity and minimum temperature in the studied rice seasons. These relationships are study-specific rather than universal thresholds.",
+      "content_hash": "710e7bbf516fed2e3ccec52cb4ee8c537d2a47db3914efa0ae97af3c39aa93df",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__monitoring",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nRegularly inspect rice plants for green leafhoppers and monitor fields for early tungro symptoms, especially during susceptible crop stages.\nField observations:\nRegularly inspect rice plants for green leafhoppers and monitor fields for early tungro symptoms, especially during susceptible crop stages.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nRegularly inspect rice plants for green leafhoppers and monitor fields for early tungro symptoms, especially during susceptible crop stages.",
+      "content_hash": "6819bf4d4bfb02fd802e43cb5bc6de47a3e53d419b3a5d100c574c6957132c8e",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__cultural_control",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nUse resistant varieties where available, maintain field sanitation, and manage planting practices to reduce conditions favoring vector and tungro spread.\nField management:\nUse resistant varieties where available, maintain field sanitation, and manage planting practices to reduce conditions favoring vector and tungro spread.",
+      "content_hash": "eee63dbd0283a55886c05f9cb0c032a3605dac9dec029be9e54433453e2c016a",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__biological_control",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve predators and other natural enemies of green leafhoppers as part of integrated management.\nConservation practices:\nConserve predators and other natural enemies of green leafhoppers as part of integrated management.",
+      "content_hash": "46ebe3ab46ae3a400cf340f958b6251f1846f450807e7f2bc03d770e66079357",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__mechanical_control",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nUse field sanitation and physical crop-management measures that reduce vector sources and remove heavily affected plant material where practical.\nPhysical removal:\nUse field sanitation and physical crop-management measures that reduce vector sources and remove heavily affected plant material where practical.",
+      "content_hash": "01b531ea84823b7fa76ffdce123c97958bfb73358f4cdbfd730dd65947d7a931",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__chemical_control",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nChemical management should be based on monitoring and current locally registered recommendations rather than routine calendar spraying.\nRecommended options:\nChemical management should be based on monitoring and current locally registered recommendations rather than routine calendar spraying.\nApplication guidance:\nChemical management should be based on monitoring and current locally registered recommendations rather than routine calendar spraying.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "aecdddaa4a0f406332ac327303b9085efc7dd5ebb0c2e5749bc4b5f3bc504643",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "green_leafhopper__integrated_pest_management",
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Green leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nMonitoring:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nDecision guidance:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nCultural methods:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nBiological methods:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nMechanical methods:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nChemical methods:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.\nPriority actions:\nIntegrate resistant varieties, field sanitation, monitoring, conservation of natural enemies, and need-based intervention to reduce green leafhopper and tungro risk.",
+      "content_hash": "db867b9ec2c18a76a66bfc9617499dfc244ced62a237c9bc7ac87d59fb4b58dd",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Ecological factors favouring green leafhopper (Nephotettix virescens) population in rice (Oryza sativa)",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/index.php/IJAgS/article/view/29839"
+          },
+          {
+            "title": "Tungro",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/diseases/item/tungro"
+          },
+          {
+            "title": "Crop Protection: Pest of Rice — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_2.html"
+          },
+          {
+            "title": "Nursery Management — Green leafhopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/nurserymgmt.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__identification",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Leaf folder\nPest type: Insect\nIdentification features:\nRice leaf folder larvae fold rice leaves and feed within the folded leaf area.",
+      "content_hash": "107af720ed20dced25f4bcc47ce85eb22d5159be7e00609910c61e9544e7f563",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__symptoms",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nInfested leaves are folded and webbed together, and larvae scrape the green tissue, producing whitish or transparent patches.\nField symptoms:\nInfested leaves are folded and webbed together, and larvae scrape the green tissue, producing whitish or transparent patches.\nDamage description:\nInfested leaves are folded and webbed together, and larvae scrape the green tissue, producing whitish or transparent patches.",
+      "content_hash": "602f2830d241a1fd0c4d6781079d6b41918227b10b0617aeb83de02d0a9885e3",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__favorable_conditions",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: The cited TNAU weather-management manual associates leaf-folder risk with high relative humidity, low rainfall, low wind speed, and temperatures around 20–30°C. These are source-specific associations, not universal outbreak thresholds.\nHumidity:\nDescription: The cited TNAU weather-management manual associates leaf-folder risk with high relative humidity, low rainfall, low wind speed, and temperatures around 20–30°C. These are source-specific associations, not universal outbreak thresholds.\nRainfall:\nDescription: The cited TNAU weather-management manual associates leaf-folder risk with high relative humidity, low rainfall, low wind speed, and temperatures around 20–30°C. These are source-specific associations, not universal outbreak thresholds.\nSeasonal conditions:\nThe cited TNAU weather-management manual associates leaf-folder risk with high relative humidity, low rainfall, low wind speed, and temperatures around 20–30°C. These are source-specific associations, not universal outbreak thresholds.\nOther conditions:\nThe cited TNAU weather-management manual associates leaf-folder risk with high relative humidity, low rainfall, low wind speed, and temperatures around 20–30°C. These are source-specific associations, not universal outbreak thresholds.",
+      "content_hash": "4ab3c8b9e0c1e0bcf43146d06343299ed6c30a6d11c616dfa0b546a2171cf6b4",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__monitoring",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nInspect rice leaves for folded/webbed leaves and larval feeding damage and monitor crop growth for increasing infestation.\nField observations:\nInspect rice leaves for folded/webbed leaves and larval feeding damage and monitor crop growth for increasing infestation.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nInspect rice leaves for folded/webbed leaves and larval feeding damage and monitor crop growth for increasing infestation.",
+      "content_hash": "43f75d2821f334440cdddf24a0c8a7f5a4eeb0e8e507df8c03c14755c5d595e4",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__cultural_control",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nAvoid excessive nitrogen and manage crop conditions that produce dense foliage, which can favor leaf-folder development.\nField management:\nAvoid excessive nitrogen and manage crop conditions that produce dense foliage, which can favor leaf-folder development.",
+      "content_hash": "5cc4a26231a62fe24c6a6108cbddc5d015ab995509805244724c473ef7476a50",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__biological_control",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve parasitoids and predators of leaf folder and avoid unnecessary broad-spectrum pesticide use that can disrupt natural enemies.\nConservation practices:\nConserve parasitoids and predators of leaf folder and avoid unnecessary broad-spectrum pesticide use that can disrupt natural enemies.",
+      "content_hash": "ac84ffca58bc34724cf85b22200ba3a74e26578cc1af65491266580a6febf3d8",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__mechanical_control",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nRemove or destroy heavily folded and infested leaves where practical, particularly in localized infestations.\nPhysical removal:\nRemove or destroy heavily folded and infested leaves where practical, particularly in localized infestations.",
+      "content_hash": "62d496286670ddd3ce9b3009471afc9c63b8a46477e64e121843f545a344d6f4",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__chemical_control",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nChemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying.\nRecommended options:\nChemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying.\nApplication guidance:\nChemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "4a892018938aefc7c6f8573baf0ba3ba3338edfe2d5dff029af1b1c74c70fe9a",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "leaf_folder__integrated_pest_management",
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Leaf folder\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nMonitoring:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nDecision guidance:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nCultural methods:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nBiological methods:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nMechanical methods:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nChemical methods:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.\nPriority actions:\nIntegrate monitoring, balanced crop nutrition, cultural practices, conservation of natural enemies, mechanical removal where practical, and need-based chemical intervention.",
+      "content_hash": "1ce6286cc424b6daba4353cbbf269cd97e69bb2544f643bafc6adb340650e0b1",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Crop Protection — Leaf Folder",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_lf.html"
+          },
+          {
+            "title": "ICT-AAS — Paddy Leaf Folder Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/govt_schemes_services/aas/paddy_ex1.html"
+          },
+          {
+            "title": "Important Pest in Rice and Their Weather-Based Management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/pdf/ifpri%20merfs/Final%20English%20Manual.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__identification",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Mirid bug\nScientific name: Cyrtorhinus lividipennis\nPest type: Insect\nIdentification features:\nThe mirid bug recorded in the rice literature is Cyrtorhinus lividipennis Reuter, a beneficial natural enemy associated with rice ecosystems. It is predatory on eggs and nymphs of rice planthoppers and leafhoppers, particularly brown planthopper.",
+      "content_hash": "4141e1a50953439aec9daeb3108298ef155cd58a605515d90e9c5d2810246829",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__symptoms",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "SOURCE_NOT_FOUND",
+      "text": "Pest: Mirid bug\nTopic: symptoms\nStatus: SOURCE_NOT_FOUND\nNo authoritative source-backed fact text is currently available for this topic.",
+      "content_hash": "dae44664570d05278f6323538e46c0d446d0d4b807967139fd27d6e1b2713fb4",
+      "source_metadata": {
+        "sources": []
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__favorable_conditions",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.\nHumidity:\nDescription: Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.\nRainfall:\nDescription: Mirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.\nSeasonal conditions:\nMirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.\nOther conditions:\nMirid bug occurrence in rice is associated with seasonal and environmental conditions studied in rice ecosystems. The cited studies examine mirid population dynamics in relation to weather factors. These relationships are study-specific ecological associations and should not be treated as universal weather thresholds.",
+      "content_hash": "60645bd082a561035a7f29a98f23d1325734144ecf1fb05609a5b8bb3538ab91",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__monitoring",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nMonitor rice fields for the occurrence and seasonal abundance of mirid bugs as beneficial natural enemies, particularly when assessing planthopper populations. Mirid monitoring should be interpreted as an indicator of natural-enemy presence rather than as evidence of rice pest damage.\nField observations:\nMonitor rice fields for the occurrence and seasonal abundance of mirid bugs as beneficial natural enemies, particularly when assessing planthopper populations. Mirid monitoring should be interpreted as an indicator of natural-enemy presence rather than as evidence of rice pest damage.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nMonitor rice fields for the occurrence and seasonal abundance of mirid bugs as beneficial natural enemies, particularly when assessing planthopper populations. Mirid monitoring should be interpreted as an indicator of natural-enemy presence rather than as evidence of rice pest damage.",
+      "content_hash": "6a7d8c07d15d4329ef5369f53bc73ef3b6aa070abdf1cea25a1a08df90797f7d",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__cultural_control",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nConserve Cyrtorhinus lividipennis in rice fields as a beneficial natural enemy of planthoppers. Rice IPM practices should avoid unnecessary disturbance of natural-enemy populations.\nField management:\nConserve Cyrtorhinus lividipennis in rice fields as a beneficial natural enemy of planthoppers. Rice IPM practices should avoid unnecessary disturbance of natural-enemy populations.",
+      "content_hash": "be74b43a5d7cea27636e34927732b324f642dd28dcbbc59fae1d8253afc77409",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__biological_control",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nCyrtorhinus lividipennis is a beneficial natural enemy that contributes to biological control in rice by preying on eggs and nymphs of planthoppers and leafhoppers, particularly brown planthopper.\nConservation practices:\nCyrtorhinus lividipennis is a beneficial natural enemy that contributes to biological control in rice by preying on eggs and nymphs of planthoppers and leafhoppers, particularly brown planthopper.",
+      "content_hash": "27295379d8c7026d6583f812e690cfa1ac2a54713e515273e2c1ec6cbb26f82f",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__mechanical_control",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "SOURCE_NOT_FOUND",
+      "text": "Pest: Mirid bug\nTopic: mechanical_control\nStatus: SOURCE_NOT_FOUND\nNo authoritative source-backed fact text is currently available for this topic.",
+      "content_hash": "fe83fe9268b1cf95aabfd4044aceaac0efdc0c242102c694d2fc0360c547d980",
+      "source_metadata": {
+        "sources": []
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__chemical_control",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nNo chemical treatment should be directed specifically against Cyrtorhinus lividipennis as a beneficial natural enemy. When pesticides are required for other rice pests, use need-based and selective approaches that minimize harm to beneficial natural enemies and avoid unnecessary broad-spectrum pesticide use.\nRecommended options:\nNo chemical treatment should be directed specifically against Cyrtorhinus lividipennis as a beneficial natural enemy. When pesticides are required for other rice pests, use need-based and selective approaches that minimize harm to beneficial natural enemies and avoid unnecessary broad-spectrum pesticide use.\nApplication guidance:\nNo chemical treatment should be directed specifically against Cyrtorhinus lividipennis as a beneficial natural enemy. When pesticides are required for other rice pests, use need-based and selective approaches that minimize harm to beneficial natural enemies and avoid unnecessary broad-spectrum pesticide use.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "43d685cf96846fcf6093f89c46b5dc26d007dd15ea16c54143549f2ad115b2b6",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "mirid_bug__integrated_pest_management",
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Mirid bug\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nMonitoring:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nDecision guidance:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nCultural methods:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nBiological methods:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nMechanical methods:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nChemical methods:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.\nPriority actions:\nIn rice IPM, Cyrtorhinus lividipennis should be treated as a beneficial natural enemy and conserved as part of biological management of planthoppers and leafhoppers. Monitoring of mirid populations can provide information about the natural-enemy component of the rice ecosystem. Chemical intervention for other pests should therefore be selected and used in ways that avoid unnecessary disruption of beneficial natural enemies.",
+      "content_hash": "bd96cc6894861ed7dc69280dec31c6bc2bcb3552af6766840081435b1cfa6b7b",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Cyrtorhinus lividipennis Reuter",
+            "organization": "ICAR - National Bureau of Agricultural Insect Resources",
+            "url": "https://databases.nbair.res.in/Featured_insects/Cyrtorhinus-lividipennis.php"
+          },
+          {
+            "title": "Seasonal Incidence of Mirid Bug (Cyrtorhinus lividipennis Reuter), Predator of Brown Plant Hopper in Rice Ecosystem",
+            "organization": "Professor Jayashankar Telangana State Agricultural University",
+            "url": "https://epubs.icar.org.in/ejournal/index.php/TJRP/article/view/88750"
+          },
+          {
+            "title": "Population Dynamics of Brown Planthopper and Mirid Bug in Relation to Weather Factors in the Terai Region",
+            "organization": "G. B. Pant University of Agriculture and Technology",
+            "url": "https://www.gbpuat.res.in/paperdetail.php?paper=1585"
+          },
+          {
+            "title": "Crop Protection / IPM guidance for rice planthopper management",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://www.agritech.tnau.ac.in/expert_system/paddy/faqs.html"
+          },
+          {
+            "title": "Biological control of brown planthopper in rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__identification",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: White-backed planthopper\nPest type: Insect\nIdentification features:\nWhite-backed planthopper is a rice planthopper characterized by a pale or white dorsal stripe and sap-sucking feeding habit.",
+      "content_hash": "946a2646b7955696547688a9d557009e05d3370193459db28ab914d6ccbc40d7",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__symptoms",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nFeeding by white-backed planthopper can cause yellowing, weakening, and drying of rice plants when populations become high.\nField symptoms:\nFeeding by white-backed planthopper can cause yellowing, weakening, and drying of rice plants when populations become high.\nDamage description:\nFeeding by white-backed planthopper can cause yellowing, weakening, and drying of rice plants when populations become high.",
+      "content_hash": "c237395f2f61e34e0d80d9697612d530ca1d45b50d73c048ca51998ee7eef705",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__favorable_conditions",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: Planthopper risk can increase under crop and environmental conditions that favor sap-feeding insect multiplication; excessive nitrogen and dense crop growth can contribute to risk.\nHumidity:\nDescription: Planthopper risk can increase under crop and environmental conditions that favor sap-feeding insect multiplication; excessive nitrogen and dense crop growth can contribute to risk.\nRainfall:\nDescription: Planthopper risk can increase under crop and environmental conditions that favor sap-feeding insect multiplication; excessive nitrogen and dense crop growth can contribute to risk.\nSeasonal conditions:\nPlanthopper risk can increase under crop and environmental conditions that favor sap-feeding insect multiplication; excessive nitrogen and dense crop growth can contribute to risk.\nOther conditions:\nPlanthopper risk can increase under crop and environmental conditions that favor sap-feeding insect multiplication; excessive nitrogen and dense crop growth can contribute to risk.",
+      "content_hash": "2d984a0c5722d8b15dc0048ec26d60542be2eb156956ef594eafc8d60d839b02",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__monitoring",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nRegularly inspect rice hills and leaf sheaths for white-backed planthoppers and monitor plant symptoms and population levels.\nField observations:\nRegularly inspect rice hills and leaf sheaths for white-backed planthoppers and monitor plant symptoms and population levels.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nRegularly inspect rice hills and leaf sheaths for white-backed planthoppers and monitor plant symptoms and population levels.",
+      "content_hash": "cc4dcfd1a810a764d72f2136c129c5e608c27d916ab6f52a1a9544adc3017bd9",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__cultural_control",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nMaintain balanced crop nutrition, avoid excessive nitrogen, and conserve natural enemies to reduce planthopper risk.\nField management:\nMaintain balanced crop nutrition, avoid excessive nitrogen, and conserve natural enemies to reduce planthopper risk.",
+      "content_hash": "042a963c8e763078cf86d7d6444e55aaaca0d058cffc35c64256590243ad0c10",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__biological_control",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve predators and parasitoids of planthoppers as part of biological management.\nConservation practices:\nConserve predators and parasitoids of planthoppers as part of biological management.",
+      "content_hash": "145320d88bf16596f7ca9e39c9d5f79ad27a88aa6a94b20ff700141ce597d661",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__mechanical_control",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nUse field-management and physical measures that reduce planthopper populations and remove heavily affected material where practical.\nPhysical removal:\nUse field-management and physical measures that reduce planthopper populations and remove heavily affected material where practical.",
+      "content_hash": "b3df85b1fa3bcc3b9c2b05d6e7220a8f3fe4406e158c8056a967ffe6ef635727",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__chemical_control",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nChemical management should follow the cited TNAU recommendations only after monitoring and confirmation of need, with current product labels and local registration checked before application.\nRecommended options:\nChemical management should follow the cited TNAU recommendations only after monitoring and confirmation of need, with current product labels and local registration checked before application.\nApplication guidance:\nChemical management should follow the cited TNAU recommendations only after monitoring and confirmation of need, with current product labels and local registration checked before application.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "90dec0a69b9763687cb7afbf705ce7b686be7012fe6642f62babc0cc13db11f0",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "white_backed_planthopper__integrated_pest_management",
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: White-backed planthopper\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nMonitoring:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nDecision guidance:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nCultural methods:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nBiological methods:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nMechanical methods:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nChemical methods:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.\nPriority actions:\nIntegrate field monitoring, balanced crop nutrition, cultural management, conservation of natural enemies, mechanical measures, and need-based chemical intervention.",
+      "content_hash": "4dafd71a6567c495b8f0f636631f626f538cc6557c1ff38042853fe146d0240c",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "Planthoppers: Rice planthopper problems and relevant causes",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          },
+          {
+            "title": "Pest of Paddy — White-backed Planthopper",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/expert_system/paddy/cppests_WBPH.html"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__identification",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Yellow stem borer\nPest type: Insect\nIdentification features:\nThe yellow stem borer is a rice stem-boring insect. Larvae bore into rice stems, where they feed internally.",
+      "content_hash": "62b2914e36ac8d24c640635ada5c779d4d93248978e75d868e7c3652a9cead9e",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__symptoms",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nStem borer injury can produce deadhearts during the vegetative stage and whiteheads during the reproductive stage.\nField symptoms:\nStem borer injury can produce deadhearts during the vegetative stage and whiteheads during the reproductive stage.\nDamage description:\nStem borer injury can produce deadhearts during the vegetative stage and whiteheads during the reproductive stage.",
+      "content_hash": "213d45025b4515942745ba9a212cb52f9e47e6714d32db8ccfe01f34821cfc51",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__favorable_conditions",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.\nHumidity:\nDescription: At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.\nRainfall:\nDescription: At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.\nSeasonal conditions:\nAt Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.\nOther conditions:\nAt Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.",
+      "content_hash": "b792c5998dca59cc76b3c2e1ec32487863edbf31cd1658a1b90e8c60fefcf455",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__monitoring",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nMonitor rice plants for deadhearts and whiteheads and inspect plants for stem-borer injury during crop development.\nField observations:\nMonitor rice plants for deadhearts and whiteheads and inspect plants for stem-borer injury during crop development.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nMonitor rice plants for deadhearts and whiteheads and inspect plants for stem-borer injury during crop development.",
+      "content_hash": "5f585ee9d386f4daf2f5478dc0d4936c7c214d719c9b713deeef9b39842663b6",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__cultural_control",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nUse healthy planting material, remove and destroy affected plant residues, and avoid management practices that encourage continued stem-borer carryover.\nField management:\nUse healthy planting material, remove and destroy affected plant residues, and avoid management practices that encourage continued stem-borer carryover.",
+      "content_hash": "5ee77dae773ca8b08babacca08c59cee720c90bc75719c51c04e409d615c269b",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__biological_control",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve naturally occurring parasitoids and predators of rice stem borers as part of integrated pest management.\nConservation practices:\nConserve naturally occurring parasitoids and predators of rice stem borers as part of integrated pest management.",
+      "content_hash": "2784ac16ce44fc4ef8448eeb6a924b82a87a93bcbb156ac3865cf7a970f13c33",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__mechanical_control",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nRemove and destroy infested plant material and affected stems where practical to reduce the pest source.\nPhysical removal:\nRemove and destroy infested plant material and affected stems where practical to reduce the pest source.",
+      "content_hash": "65a8ee1ed155050ed67380de1b7e844b5dd19b53efd89ce93759b38f19076ae8",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__chemical_control",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nThe cited ICAR Kharif Agro-Advisory for 2025 lists Fipronil 5% SC at 1000 ml/ha for stem-borer management. Product labels and current local registration must be checked before application.\nRecommended options:\nThe cited ICAR Kharif Agro-Advisory for 2025 lists Fipronil 5% SC at 1000 ml/ha for stem-borer management. Product labels and current local registration must be checked before application.\nApplication guidance:\nThe cited ICAR Kharif Agro-Advisory for 2025 lists Fipronil 5% SC at 1000 ml/ha for stem-borer management. Product labels and current local registration must be checked before application.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "6d00d9a47ae9a71e089d169281026e44e9107c95611e04355c9f52af0fb0ec0f",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "yellow_stem_borer__integrated_pest_management",
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Yellow stem borer\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nMonitoring:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nDecision guidance:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nCultural methods:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nBiological methods:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nMechanical methods:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nChemical methods:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.\nPriority actions:\nManage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations.",
+      "content_hash": "be399bea028acd1792561724b8d916f113fe8f9bad306633dccdc85748dce105",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+          },
+          {
+            "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+            "organization": "India Meteorological Department",
+            "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+          },
+          {
+            "title": "Stem borer",
+            "organization": "International Rice Research Institute",
+            "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__identification",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "identification",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: identification\n\nCommon name: Zig-zag leafhopper\nPest type: Insect\nIdentification features:\nZig-zag leafhopper is a sap-sucking rice leafhopper recognized by its characteristic body markings and feeding habit.",
+      "content_hash": "2b6020ef06e695e77942b7eeb09e3442e95082844605c00618fdd89b0076e1b6",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__symptoms",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "symptoms",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: symptoms\n\nEarly symptoms:\nLeafhopper feeding can cause yellowing, weakening, and reduced vigor of rice plants when populations become significant.\nField symptoms:\nLeafhopper feeding can cause yellowing, weakening, and reduced vigor of rice plants when populations become significant.\nDamage description:\nLeafhopper feeding can cause yellowing, weakening, and reduced vigor of rice plants when populations become significant.",
+      "content_hash": "2500d3500fa31743e06264cf959c1b778a7a21ec4d1df05ee3ef6fd4ce512ba2",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__favorable_conditions",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "favorable_conditions",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: favorable_conditions\n\nTemperature:\nDescription: The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.\nHumidity:\nDescription: The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.\nRainfall:\nDescription: The cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.\nSeasonal conditions:\nThe cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.\nOther conditions:\nThe cited ICAR literature indicates environmental associations with zig-zag leafhopper occurrence; these are source-specific ecological relationships and should not be treated as universal weather thresholds.",
+      "content_hash": "21e32ebb9e77e6cbaf2f18c5505a662e66e40389a8398b4dc4c1cdcaf00e323f",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__monitoring",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "monitoring",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: monitoring\n\nMonitoring methods:\nInspect rice plants regularly for leafhoppers and monitor leaves and lower plant portions for feeding damage and increasing populations.\nField observations:\nInspect rice plants regularly for leafhoppers and monitor leaves and lower plant portions for feeding damage and increasing populations.\nMonitoring frequency: Regular field monitoring during relevant crop growth stages.\nRisk indicators:\nInspect rice plants regularly for leafhoppers and monitor leaves and lower plant portions for feeding damage and increasing populations.",
+      "content_hash": "cb1cf1f7c7cd9a47a900f21796e28c61f4b58c238e243f3d53055c97666abbd5",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__cultural_control",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "cultural_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: cultural_control\n\nPractices:\nUse balanced crop nutrition, field sanitation, and crop-management practices that reduce conditions favorable to leafhopper multiplication.\nField management:\nUse balanced crop nutrition, field sanitation, and crop-management practices that reduce conditions favorable to leafhopper multiplication.",
+      "content_hash": "c23fbaad7ea7969a2ecd4707d1bd6b1cb71ec2b0f309791a5c24fd95133de24e",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__biological_control",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "biological_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: biological_control\n\nNatural enemies:\nConserve predators, parasitoids, and other natural enemies of rice leafhoppers.\nConservation practices:\nConserve predators, parasitoids, and other natural enemies of rice leafhoppers.",
+      "content_hash": "f9bcb47a42324baf3e948e63b41c044b7c55c04ce41ffeea371a079467e4193f",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__mechanical_control",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "mechanical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: mechanical_control\n\nPractices:\nUse field sanitation and physical crop-management measures where practical to reduce leafhopper sources and affected plant material.\nPhysical removal:\nUse field sanitation and physical crop-management measures where practical to reduce leafhopper sources and affected plant material.",
+      "content_hash": "d9155acc51f3cb68dbd07fcbe57def966cd462be61d0e9387d9ef11288711e39",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__chemical_control",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "chemical_control",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: chemical_control\n\nPrinciples:\nChemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying.\nRecommended options:\nChemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying.\nApplication guidance:\nChemical intervention should be based on monitoring and current locally approved recommendations rather than routine calendar spraying.\nSafety notes:\nUse only currently registered products and follow the current product label and applicable local agricultural recommendations.",
+      "content_hash": "c26b306d44617e8e35d2ca1c4afb7b3d2802b82469705dc806a706e0f7c242ba",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "chunk_id": "zig_zag_leafhopper__integrated_pest_management",
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper",
+      "crop": "Rice",
+      "category": "Insect pest",
+      "topic": "integrated_pest_management",
+      "status": "CONTENT_AVAILABLE",
+      "text": "Pest: Zig-zag leafhopper\nCrop: Rice\nCategory: Insect pest\nTopic: integrated_pest_management\n\nPrevention:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nMonitoring:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nDecision guidance:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nCultural methods:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nBiological methods:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nMechanical methods:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nChemical methods:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.\nPriority actions:\nIntegrate monitoring, balanced crop management, conservation of natural enemies, field sanitation, and need-based chemical intervention for zig-zag leafhopper.",
+      "content_hash": "6ab2b80b96dbdf5d9fc294ea661ed904e2a0a86c5edadd0901831eaf881891f1",
+      "source_metadata": {
+        "sources": [
+          {
+            "title": "ICAR publications — ecological context for rice insect pests",
+            "organization": "Indian Council of Agricultural Research",
+            "url": "https://epubs.icar.org.in/"
+          },
+          {
+            "title": "Crop Protection Guide — Rice",
+            "organization": "Tamil Nadu Agricultural University",
+            "url": "https://agritech.tnau.ac.in/ta/pdf/2013/CPG%202012.pdf"
+          }
+        ]
+      }
+    }
+  ]
+}

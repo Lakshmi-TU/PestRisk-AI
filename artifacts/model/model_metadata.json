@@ -1,0 +1,82 @@
+{
+    "project": "PestRisk AI",
+    "dataset": "RICE.csv",
+    "collection_type": "Number/Light trap",
+    "target": "Pest_Present = Pest Value > 0",
+    "features": [
+        "Standard Week",
+        "MaxT",
+        "MinT",
+        "RH1(%)",
+        "RH2(%)",
+        "RF(mm)",
+        "WS(kmph)",
+        "SSH(hrs)",
+        "EVP(mm)",
+        "PEST NAME",
+        "Location"
+    ],
+    "categorical_features": [
+        "PEST NAME",
+        "Location"
+    ],
+    "numerical_features": [
+        "Standard Week",
+        "MaxT",
+        "MinT",
+        "RH1(%)",
+        "RH2(%)",
+        "RF(mm)",
+        "WS(kmph)",
+        "SSH(hrs)",
+        "EVP(mm)"
+    ],
+    "excluded_features": [
+        "Observation Year",
+        "Pest Value",
+        "Collection Type"
+    ],
+    "training_period": "1959-2002",
+    "calibration_period": "2003-2006",
+    "final_test_period": "2007-2011",
+    "model": {
+        "type": "RandomForestClassifier",
+        "n_estimators": 300,
+        "class_weight": "balanced",
+        "random_state": 42
+    },
+    "calibration": {
+        "method": "sigmoid"
+    },
+    "risk_thresholds": {
+        "low": "< 0.50",
+        "medium": "0.50 to < 0.70",
+        "high": ">= 0.70"
+    },
+    "evaluation": {
+        "accuracy": 0.7123202001250781,
+        "precision": 0.7126582278481013,
+        "recall": 0.8760373443983402,
+        "f1": 0.7859469520707306,
+        "roc_auc": 0.7758131820335218,
+        "brier_score": 0.191233140722524
+    },
+    "confusion_matrix": [
+        [
+            1178,
+            1362
+        ],
+        [
+            478,
+            3378
+        ]
+    ],
+    "primary_metric": "F1-score",
+    "secondary_metrics": [
+        "Recall",
+        "Precision",
+        "ROC-AUC",
+        "Accuracy",
+        "Brier score"
+    ]
+}

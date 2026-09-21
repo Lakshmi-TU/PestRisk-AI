@@ -1,0 +1,152 @@
+{
+  "pest_id": "yellow_stem_borer",
+  "pest_name": "Yellow stem borer",
+  "crop": "Rice",
+  "category": "Insect pest",
+  "identification": {
+    "common_name": "Yellow stem borer",
+    "scientific_name": null,
+    "pest_type": "Insect",
+    "identification_features": [
+      "The yellow stem borer is a rice stem-boring insect. Larvae bore into rice stems, where they feed internally."
+    ],
+    "life_stages": null
+  },
+  "symptoms": {
+    "early_symptoms": [
+      "Stem borer injury can produce deadhearts during the vegetative stage and whiteheads during the reproductive stage."
+    ],
+    "field_symptoms": [
+      "Stem borer injury can produce deadhearts during the vegetative stage and whiteheads during the reproductive stage."
+    ],
+    "damage_description": [
+      "Stem borer injury can produce deadhearts during the vegetative stage and whiteheads during the reproductive stage."
+    ]
+  },
+  "favorable_conditions": {
+    "temperature": {
+      "description": "At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.",
+      "range": null
+    },
+    "humidity": {
+      "description": "At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds.",
+      "range": null
+    },
+    "rainfall": {
+      "description": "At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds."
+    },
+    "seasonal_conditions": [
+      "At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds."
+    ],
+    "other_conditions": [
+      "At Pattambi, Kerala, the cited forewarning study reported associations between stem-borer attack and temperature, relative humidity, and sunshine conditions. These relationships are study-specific and should not be treated as universal thresholds."
+    ]
+  },
+  "monitoring": {
+    "monitoring_methods": [
+      "Monitor rice plants for deadhearts and whiteheads and inspect plants for stem-borer injury during crop development."
+    ],
+    "trap_methods": null,
+    "field_observations": [
+      "Monitor rice plants for deadhearts and whiteheads and inspect plants for stem-borer injury during crop development."
+    ],
+    "monitoring_frequency": "Regular field monitoring during relevant crop growth stages.",
+    "risk_indicators": [
+      "Monitor rice plants for deadhearts and whiteheads and inspect plants for stem-borer injury during crop development."
+    ]
+  },
+  "cultural_control": {
+    "practices": [
+      "Use healthy planting material, remove and destroy affected plant residues, and avoid management practices that encourage continued stem-borer carryover."
+    ],
+    "field_management": [
+      "Use healthy planting material, remove and destroy affected plant residues, and avoid management practices that encourage continued stem-borer carryover."
+    ],
+    "water_management": null,
+    "nutrient_management": null
+  },
+  "biological_control": {
+    "natural_enemies": [
+      "Conserve naturally occurring parasitoids and predators of rice stem borers as part of integrated pest management."
+    ],
+    "biocontrol_agents": null,
+    "conservation_practices": [
+      "Conserve naturally occurring parasitoids and predators of rice stem borers as part of integrated pest management."
+    ]
+  },
+  "mechanical_control": {
+    "practices": [
+      "Remove and destroy infested plant material and affected stems where practical to reduce the pest source."
+    ],
+    "physical_removal": [
+      "Remove and destroy infested plant material and affected stems where practical to reduce the pest source."
+    ],
+    "trap_based_control": null
+  },
+  "chemical_control": {
+    "principles": [
+      "The cited ICAR Kharif Agro-Advisory for 2025 lists Fipronil 5% SC at 1000 ml/ha for stem-borer management. Product labels and current local registration must be checked before application."
+    ],
+    "recommended_options": [
+      "The cited ICAR Kharif Agro-Advisory for 2025 lists Fipronil 5% SC at 1000 ml/ha for stem-borer management. Product labels and current local registration must be checked before application."
+    ],
+    "application_guidance": [
+      "The cited ICAR Kharif Agro-Advisory for 2025 lists Fipronil 5% SC at 1000 ml/ha for stem-borer management. Product labels and current local registration must be checked before application."
+    ],
+    "safety_notes": [
+      "Use only currently registered products and follow the current product label and applicable local agricultural recommendations."
+    ]
+  },
+  "integrated_pest_management": {
+    "prevention": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "monitoring": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "decision_guidance": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "cultural_methods": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "biological_methods": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "mechanical_methods": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "chemical_methods": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ],
+    "priority_actions": [
+      "Manage yellow stem borer using integrated practices including crop sanitation, monitoring, conservation of natural enemies, and chemical intervention only when justified and according to current local recommendations."
+    ]
+  },
+  "source_metadata": {
+    "sources": [
+      {
+        "title": "ICAR Kharif Agro-Advisories for Farmers 2025",
+        "organization": "Indian Council of Agricultural Research",
+        "url": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf"
+      },
+      {
+        "title": "Forewarning of stem-borer attack on paddy - A feasolatory study at Pattambi",
+        "organization": "India Meteorological Department",
+        "url": "https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/2641"
+      },
+      {
+        "title": "Stem borer",
+        "organization": "International Rice Research Institute",
+        "url": "https://www.knowledgebank.irri.org/training/fact-sheets/pest-management/insects/item/stem-borer"
+      }
+    ],
+    "source_type": [
+      "ICAR",
+      "IRRI",
+      "Peer-reviewed publication"
+    ],
+    "last_verified": "2026-09-19",
+    "notes": "Evidence-grounded rice pest knowledge compiled from the verified PestRisk AI source registry."
+  }
+}

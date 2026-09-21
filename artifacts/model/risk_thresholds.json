@@ -1,0 +1,9 @@
+{
+    "low_threshold": 0.5,
+    "high_threshold": 0.7,
+    "labels": {
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High"
+    }
+}

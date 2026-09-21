@@ -1,0 +1,7 @@
+{
+  "project": "PestRisk AI",
+  "version": "1.0",
+  "crop": "Rice",
+  "application": "Streamlit",
+  "status": "application_setup"
+}

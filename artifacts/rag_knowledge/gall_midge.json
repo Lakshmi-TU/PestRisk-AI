@@ -1,0 +1,163 @@
+{
+  "pest_id": "gall_midge",
+  "pest_name": "Gall midge",
+  "crop": "Rice",
+  "category": "Insect pest",
+  "identification": {
+    "common_name": "Gall midge",
+    "scientific_name": null,
+    "pest_type": "Insect",
+    "identification_features": [
+      "Rice gall midge is an insect pest whose larval feeding in young rice shoots causes characteristic gall-like tubular growth."
+    ],
+    "life_stages": null
+  },
+  "symptoms": {
+    "early_symptoms": [
+      "Gall midge feeding produces characteristic silver shoots or onion-leaf-like tubular galls instead of normal leaves."
+    ],
+    "field_symptoms": [
+      "Gall midge feeding produces characteristic silver shoots or onion-leaf-like tubular galls instead of normal leaves."
+    ],
+    "damage_description": [
+      "Gall midge feeding produces characteristic silver shoots or onion-leaf-like tubular galls instead of normal leaves."
+    ]
+  },
+  "favorable_conditions": {
+    "temperature": {
+      "description": "The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.",
+      "range": null
+    },
+    "humidity": {
+      "description": "The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds.",
+      "range": null
+    },
+    "rainfall": {
+      "description": "The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds."
+    },
+    "seasonal_conditions": [
+      "The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds."
+    ],
+    "other_conditions": [
+      "The cited environmental source associates gall-midge occurrence with warm conditions around 26–30°C and high relative humidity around 82–88%. These values are source-specific ecological associations rather than universal outbreak thresholds."
+    ]
+  },
+  "monitoring": {
+    "monitoring_methods": [
+      "Monitor rice plants for silver shoots or onion-leaf-like galls and inspect young crop growth for gall-midge symptoms."
+    ],
+    "trap_methods": null,
+    "field_observations": [
+      "Monitor rice plants for silver shoots or onion-leaf-like galls and inspect young crop growth for gall-midge symptoms."
+    ],
+    "monitoring_frequency": "Regular field monitoring during relevant crop growth stages.",
+    "risk_indicators": [
+      "Monitor rice plants for silver shoots or onion-leaf-like galls and inspect young crop growth for gall-midge symptoms."
+    ]
+  },
+  "cultural_control": {
+    "practices": [
+      "Use resistant or suitable varieties and adopt crop and field management practices that reduce gall-midge carryover and infestation."
+    ],
+    "field_management": [
+      "Use resistant or suitable varieties and adopt crop and field management practices that reduce gall-midge carryover and infestation."
+    ],
+    "water_management": null,
+    "nutrient_management": null
+  },
+  "biological_control": {
+    "natural_enemies": [
+      "Conserve parasitoids and other natural enemies associated with gall midge as part of biological pest management."
+    ],
+    "biocontrol_agents": null,
+    "conservation_practices": [
+      "Conserve parasitoids and other natural enemies associated with gall midge as part of biological pest management."
+    ]
+  },
+  "mechanical_control": {
+    "practices": [
+      "Remove and destroy heavily infested shoots or affected plant material where practical to reduce pest carryover."
+    ],
+    "physical_removal": [
+      "Remove and destroy heavily infested shoots or affected plant material where practical to reduce pest carryover."
+    ],
+    "trap_based_control": null
+  },
+  "chemical_control": {
+    "principles": [
+      "The cited ICAR Kharif Agro-Advisory lists Fipronil 5% SC at 2 ml/L for gall-midge management in nursery conditions. Current product label and local registration must be checked before use."
+    ],
+    "recommended_options": [
+      "The cited ICAR Kharif Agro-Advisory lists Fipronil 5% SC at 2 ml/L for gall-midge management in nursery conditions. Current product label and local registration must be checked before use."
+    ],
+    "application_guidance": [
+      "The cited ICAR Kharif Agro-Advisory lists Fipronil 5% SC at 2 ml/L for gall-midge management in nursery conditions. Current product label and local registration must be checked before use."
+    ],
+    "safety_notes": [
+      "Use only currently registered products and follow the current product label and applicable local agricultural recommendations."
+    ]
+  },
+  "integrated_pest_management": {
+    "prevention": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "monitoring": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "decision_guidance": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "cultural_methods": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "biological_methods": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "mechanical_methods": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "chemical_methods": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ],
+    "priority_actions": [
+      "Use integrated gall-midge management combining monitoring, suitable varieties, crop sanitation, conservation of natural enemies, and need-based chemical control where locally recommended."
+    ]
+  },
+  "source_metadata": {
+    "sources": [
+      {
+        "title": "Orseolia oryzae — environmental and biological information",
+        "organization": "ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/orseolia-oryzae"
+      },
+      {
+        "title": "ICAR Kharif Agro-Advisories for Farmers",
+        "organization": "Indian Council of Agricultural Research",
+        "url": "https://www.icar.gov.in/sites/default/files/Circulars/ICAR%20En-Kharif%20Agro-Advisories%20for%20Farmers%202025.pdf"
+      },
+      {
+        "title": "BIPM in Rice — Gall Midge",
+        "organization": "ICAR-National Bureau of Agricultural Insect Resources",
+        "url": "https://databases.nbair.res.in/rice/pest_description.php?user_id=5"
+      },
+      {
+        "title": "Control of rice insect pests",
+        "organization": "International Rice Research Institute",
+        "url": "https://www.knowledgebank.irri.org/ericeproduction/PDF_%26_Docs/Control_of_rice_insect_pests.pdf"
+      },
+      {
+        "title": "Pest of Paddy — Gall midge",
+        "organization": "Tamil Nadu Agricultural University",
+        "url": "https://www.agritech.tnau.ac.in/crop_protection/rice/crop_prot_crop_insectpest%20_cereals_paddy_m2.html"
+      }
+    ],
+    "source_type": [
+      "ICAR",
+      "IRRI",
+      "Peer-reviewed publication",
+      "State Agricultural University"
+    ],
+    "last_verified": "2026-09-19",
+    "notes": "Evidence-grounded rice pest knowledge compiled from the verified PestRisk AI source registry."
+  }
+}

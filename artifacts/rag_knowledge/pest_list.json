@@ -1,0 +1,43 @@
+{
+  "crop": "Rice",
+  "collection_type": "Number/Light trap",
+  "pest_count": 9,
+  "pests": [
+    {
+      "pest_id": "yellow_stem_borer",
+      "pest_name": "Yellow stem borer"
+    },
+    {
+      "pest_id": "gall_midge",
+      "pest_name": "Gall midge"
+    },
+    {
+      "pest_id": "green_leafhopper",
+      "pest_name": "Green leafhopper"
+    },
+    {
+      "pest_id": "brown_planthopper",
+      "pest_name": "Brown planthopper"
+    },
+    {
+      "pest_id": "leaf_folder",
+      "pest_name": "Leaf folder"
+    },
+    {
+      "pest_id": "white_backed_planthopper",
+      "pest_name": "White-backed planthopper"
+    },
+    {
+      "pest_id": "mirid_bug",
+      "pest_name": "Mirid bug"
+    },
+    {
+      "pest_id": "caseworm",
+      "pest_name": "Caseworm"
+    },
+    {
+      "pest_id": "zig_zag_leafhopper",
+      "pest_name": "Zig-zag leafhopper"
+    }
+  ]
+}
